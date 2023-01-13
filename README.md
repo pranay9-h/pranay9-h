@@ -38,13 +38,13 @@
     </a>
 </p>
 
-## 📊 **My Github Stats**
+<!--## 📊 **My Github Stats**
 
   <br/>
     <a href="https://github.com/pranay9-h/github-readme-stats"><img alt="Pranay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranay9-h&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<br/>
+<br/>-->
 
 ## ❤️**Views and Followers :**
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
