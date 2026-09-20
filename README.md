@@ -1,53 +1,105 @@
-<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is Pranay Saiteja Soppadandi</h1>
+# Hi, I'm Pranay Saiteja Soppadandi 👋
 
-## 🙋 **About Me :**
-- 🎓 pursuing Btech in Computer Science and Engineering from **IIIT Dharwad**.
-- ✨ contributor @ **GSSoC'22**(GirlScript Summer of Code 2022). 
-  
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+### DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | ArgoCD | Python
 
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+DevOps Engineer with 3 years of experience building and supporting CI/CD pipelines, AWS infrastructure, Kubernetes deployments, and automation for enterprise applications.
 
-- 📫 How to reach me : **pranay.saiteja.soppadandi@gmail.com** 
-  
-- 😊 connect with me : [Linkedin](https://www.linkedin.com/in/pranay-sai-teja-2b257b1a1/)
-  
-## 🚀 **Languages and Tools:**
+I work primarily with AWS, Terraform, Jenkins, Kubernetes/EKS, Docker, Helm, ArgoCD, Ansible, Python, and DevSecOps tooling.
 
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c programming" width="48" height="48"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp programming" width="48" height="48"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.w3schools.com/python/numpy/default.asp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy" width="88" height="48"/> </a> 
-    <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas"width="88" height="48"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/30/000000/php-logo.png" alt="php" width="48" height="48"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+---
 
-</p>
+## 🛠️ Core DevOps Stack
 
-<br/>
+### Cloud & Infrastructure
+- AWS: EKS, EC2, S3, IAM, VPC, CloudWatch
+- Terraform
+- Infrastructure as Code
+- Terraform Remote State
+- S3 Backend
+- DynamoDB State Locking
 
-## 🔥**My Github Streak**
-<p>
-    <a href="https://github.com/pranay9-h/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay9-h&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+### Containers & Kubernetes
+- Docker
+- Kubernetes
+- Amazon EKS
+- Helm
+- ArgoCD
+- kubectl
+- GitOps
 
-<!--## 📊 **My Github Stats**
+### CI/CD & Automation
+- Jenkins
+- Ansible
+- Git
+- GitHub
+- GitHub Enterprise
+- Bitbucket
 
-  <br/>
-    <a href="https://github.com/pranay9-h/github-readme-stats"><img alt="Pranay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranay9-h&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+### DevSecOps
+- SonarQube
+- Trivy
+- OWASP Dependency-Check
+- CI/CD Quality Gates
+- Container Vulnerability Scanning
 
-<br/>-->
+### Monitoring & Scripting
+- Prometheus
+- Grafana
+- AWS CloudWatch
+- Python
+- Bash
+- Linux
 
-## ❤️**Views and Followers :**
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pranay9-h">
-</a>
-<a href="https://github.com/pranay9-h?tab=followers"><img src="https://img.shields.io/github/followers/pranay9-h?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+## 🚀 Featured DevOps Projects
+
+### AWS Terraform EKS Platform
+Reusable Terraform infrastructure for AWS with modular VPC, IAM, and EKS components, environment-specific configuration, and S3/DynamoDB remote state management.
+
+**Tech:** Terraform · AWS · EKS · VPC · IAM · S3 · DynamoDB
+
+---
+
+### EKS GitOps with ArgoCD
+
+GitOps-based Kubernetes deployment workflow using Helm and ArgoCD with environment-specific configuration, rolling updates, health checks, and Kubernetes resource management.
+
+**Tech:** Kubernetes · EKS · ArgoCD · Helm · Docker · GitOps
+
+---
+
+### Jenkins DevSecOps Pipeline
+
+End-to-end CI/CD pipeline integrating build, test, SonarQube quality gates, dependency scanning, Docker image scanning with Trivy, deployment, health validation, and rollback.
+
+**Tech:** Jenkins · SonarQube · Trivy · OWASP Dependency-Check · Docker · Kubernetes
+
+---
+
+### DevOps Python Automation
+
+Python automation utilities for AWS and Kubernetes resource checks, log analysis, infrastructure reporting, and operational tasks.
+
+**Tech:** Python · AWS SDK · Kubernetes · Linux · Automation
+
+---
+
+## 🔧 What I Focus On
+
+- Infrastructure provisioning with Terraform
+- CI/CD pipeline design and automation
+- Kubernetes and Amazon EKS deployments
+- GitOps using ArgoCD and Helm
+- Infrastructure and container security
+- Linux and Ansible automation
+- AWS/Kubernetes operational automation with Python
+- Monitoring and troubleshooting with Prometheus, Grafana, and CloudWatch
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/pranay-sai-teja-2b257b1a1/
+- GitHub: https://github.com/pranay9-h
+- Email: pranay.saiteja.soppadandi@gmail.com
